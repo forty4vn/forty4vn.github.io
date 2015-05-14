@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://forty4vn.github.io
+title: Kiên Nguyen
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
