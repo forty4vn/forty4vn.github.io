@@ -1,0 +1,26 @@
+---
+published: true
+title: Haha
+layout: post
+---
+#Tiêu đề
+
+Đây là một đoạn dùng để test tính năng markdown, bắt đầu tập viết markdown. Dưới đây là một số ví dụ.
+
+- List, style bullet.
+- Tức là các chấm tròn
+- Simplenote tự động thêm list.
+
+Để chèn link, chúng ta sẽ viết [Ghi Chép] như thế này, sau đó định nghĩa ở cuối trang.
+
+>Còn đây là một đoạn trích dẫn nhỏ, mình không hiểu sao lại cứ phải tách ra nhiều dòng như thế, chẳng lẽ không tự động được sao?
+
+Nếu *một sao là in nghiêng*, còn **hai sao là in đậm** đúng không ?
+
+##Tức là tiêu đề phụ, chắc là H2.
+
+**Tại sao không hỗ trợ mắc đao ?**
+
+
+
+[Ghi chép]:http://ghichep.com/
